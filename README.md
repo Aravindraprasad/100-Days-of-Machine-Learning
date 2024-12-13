@@ -1,2 +1,2 @@
 # Data-Cleaning-Methods
-This is repo which contains the mehtods of data cleaning
+This is repo which  contain's  different mehtods of data cleaning
